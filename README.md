@@ -9,12 +9,12 @@
 
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <img align="right" alt="GIF" src="https://github.com/hust-whw/hust-whw/blob/main/cat-typing.gif" width="500" height="320" />
 
 - 👨‍💻 I’m currently working at [AscendEX](https://ascendex.com/) as [howardw](https://github.com/howardw-gdm);
-- 🌱 I’m currently learning Scala and knowledge about cryptos and exchanges;
+- 🌱 I'm currently learning Scala and knowledge about cryptos and exchanges;
 - 📚 I'm preparing exams including CFA, AWS certs and Coursera certs .etc;
-- 🏋︎ I'm working out everyday at equinox hardson yard to againt covid.
+- 🏋︎ I'm working out every day at equinox Hudson yard to beat covid.
 - 💬 Ask me about anything, I am happy to help if I could;
